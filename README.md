@@ -4,7 +4,7 @@ This repository is a monorepo manage with [yarn workspaces](https://classic.yarn
 
 ## Packages
 
-- [drugwars-uikit](https://github.com/DrugWarsBiz/drugwars-toolkit/tree/master/packages/pancake-uikit) : React components used to build the Pancake UI
+- [drugwars-uikit](https://github.com/DrugWarsBiz/drugwars-toolkit/tree/master/packages/drugwars-uikit) : React components used to build the Pancake UI
 - [eslint-config-pancake](https://github.com/DrugWarsBiz/drugwars-toolkit/tree/master/packages/eslint-config-pancake) : An ESLint config for pancake, with Typescript and Prettier support
 
 ## How to use
