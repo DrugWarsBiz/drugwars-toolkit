@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap/uikit",
+  "name": "@drugwars/uikit",
   "version": "0.39.3",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/DrugWarsBiz/drugwars-toolkit/tree/master/packages/drugwars-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
